@@ -1,0 +1,1 @@
+export const BASE_URL = 'https://nurlybek-js-27-4d285-default-rtdb.europe-west1.firebasedatabase.app/';
